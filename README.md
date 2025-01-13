@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-High turnover rates among IT professionals remain a pressing concern for both companies and employees. This project aims to investigate the root causes behind frequent job changes in the tech sector by analyzing user-generated content on Reddit. We leverage a BERT-based text classification model to categorize Reddit posts and understand why IT professionals decide to leave their roles.
+High turnover rates among IT professionals remain a pressing concern for both companies and employees. This project aims to investigate the root causes behind frequent job changes in the tech sector by analyzing user-generated content on Reddit. I leveraged a BERT-based text classification model to categorize Reddit posts and understand why IT professionals decide to leave their roles.
 
 ## Features
 
@@ -82,6 +82,6 @@ If you have specific questions or need access for collaboration, please contact 
 ## License
 
 This repository and its documentation are provided **for reference only**.  
-**All rights reserved.** You are not permitted to copy, distribute, or use any part of the private code without explicit permission.
+**All rights reserved.** You are not permitted to copy, distribute, or use any part of the private code without my permission.
 
 ---
