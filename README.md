@@ -10,8 +10,8 @@ High turnover rates among IT professionals remain a pressing concern for both co
 ## Features
 
 1. **Data Overview**  
-   - We focus on posts from Reddit communities related to IT careers (e.g., `cscareerquestions`, `ITCareerQuestions`).
-   - We identify potential turnover factors such as **burnout**, **low salary**, **toxic workplace**, etc.
+   - I focused on posts from Reddit communities related to IT careers (e.g., `cscareerquestions`, `ITCareerQuestions`).
+   - I identified potential turnover factors such as **burnout**, **low salary**, **toxic workplace**, etc.
 
 2. **Text Analysis & Classification**  
    - Fine-tune a pre-trained model (e.g., `bert-base-uncased`) on labeled Reddit data to classify posts.
